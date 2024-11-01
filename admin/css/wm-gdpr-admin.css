@@ -1,0 +1,62 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.webme-cookie-privacy {
+    width: 100%;
+}
+
+.webme-cookie-privacy fieldset {
+    display: block;
+    padding-top: 2.3em;
+}
+
+.webme-cookie-privacy label > span.wmcheckbox {
+    margin-top: -3px;
+}
+
+.webme-cookie-privacy label > span {
+    display: block;
+    float: left;
+    width: 200px;
+    margin-top: 5px;
+    font-size: 1.1em;
+}
+
+.webme-cookie-privacy input,
+.webme-cookie-privacy select {
+    display: block;
+    float: left;
+}
+
+.webme-cookie-privacy em {
+    float: left;
+    clear: both;
+}
+
+.webme-cookie-privacy-credits {
+    display: block;
+    margin-top: 120px;
+}
+
+.webme-cookie-privacy-advice {
+    width: 90%;
+    clear: both;
+    background-color: white;
+    padding: 2em;
+    font-size: 1.6em;
+    margin: 60px 0;
+}
+
+.webme-cookie-privacy-advice em {
+    display: block;
+    clear: both;
+    font-size: 0.7em !important;
+    padding: 20px 0;
+}
+
+.webme-cookie-privacy-advice a {
+    display: block;
+
+}

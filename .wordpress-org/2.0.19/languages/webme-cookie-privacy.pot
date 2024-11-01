@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: webme-cookie-privacy\n"
+"POT-Creation-Date: 2022-01-12 16:02+0100\n"
+"PO-Revision-Date: 2020-01-31 10:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wm-gdpr-admin.php:165
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:371
+msgid "Error. No data has been saved."
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:374
+msgid "Settings succesfully saved."
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:457
+#, php-format
+msgid "Iubenda Pro service is <strong>%s</strong>. %s"
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:460 admin/class-wm-gdpr-admin.php:468
+msgid "active"
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:462 admin/class-wm-gdpr-admin.php:470
+msgid "not active"
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:463
+#, php-format
+msgid "Your Iubenda Code is: <i>%s</i>."
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:465
+#, php-format
+msgid "Iubenda Cookie Solution service is <strong>%s</strong>. %s"
+msgstr ""
+
+#: admin/class-wm-gdpr-admin.php:471
+#, php-format
+msgid "Your Site ID is: <i>%s</i>."
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:64
+msgid "Main Settings"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:75
+msgid "Customize your footer bar style:"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:77
+msgid "background color"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:80
+msgid "Background Color:"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:85
+msgid "foreground color"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:88
+msgid "Foreground Color:"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:95
+msgid "Save all changes"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:100
+msgid "Do you want to include <strong>Iubenda Pro</strong> privacy policy statement?"
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:102
+msgid "With Iubenda Pro you can easily make your website completely compliant to GDPR. Click on the button below to discover our rates."
+msgstr ""
+
+#: admin/partials/wm-gdpr-admin-display.php:105
+msgid "Add Iubenda Pro"
+msgstr ""
+
+#: includes/class-acme-form-builder.php:576
+#: includes/class-acme-form-builder.php:593 includes/wm_formbuilder.php:293
+#: includes/wm_formbuilder.php:309
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-acme-form-builder.php:588 includes/wm_formbuilder.php:304
+msgid "Upload Image"
+msgstr ""

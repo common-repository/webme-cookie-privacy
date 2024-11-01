@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webme-cookie-privacy\n"
+"POT-Creation-Date: 2022-01-12 16:02+0100\n"
+"PO-Revision-Date: 2022-01-12 16:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wm-gdpr-admin.php:165
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/class-wm-gdpr-admin.php:371
+msgid "Error. No data has been saved."
+msgstr "Errore. Nessun dato è stato salvato."
+
+#: admin/class-wm-gdpr-admin.php:374
+msgid "Settings succesfully saved."
+msgstr "Le impostazioni sono state salvate correttamente."
+
+#: admin/class-wm-gdpr-admin.php:457
+#, php-format
+msgid "Iubenda Pro service is <strong>%s</strong>. %s"
+msgstr "Il servizio Iubenda Pro è <strong>%s</strong>. %s"
+
+#: admin/class-wm-gdpr-admin.php:460 admin/class-wm-gdpr-admin.php:468
+msgid "active"
+msgstr "attivo"
+
+#: admin/class-wm-gdpr-admin.php:462 admin/class-wm-gdpr-admin.php:470
+msgid "not active"
+msgstr "non attivo"
+
+#: admin/class-wm-gdpr-admin.php:463
+#, php-format
+msgid "Your Iubenda Code is: <i>%s</i>."
+msgstr "Il tuo codice Iubenda è: <i>%s</i>."
+
+#: admin/class-wm-gdpr-admin.php:465
+#, php-format
+msgid "Iubenda Cookie Solution service is <strong>%s</strong>. %s"
+msgstr "Il servizio Iubenda COOKIE Pro è <strong>%s</strong>. %s"
+
+#: admin/class-wm-gdpr-admin.php:471
+#, php-format
+msgid "Your Site ID is: <i>%s</i>."
+msgstr "Il tuo ID Sito è: <i>%s</i>."
+
+#: admin/partials/wm-gdpr-admin-display.php:64
+msgid "Main Settings"
+msgstr "Impostazioni"
+
+#: admin/partials/wm-gdpr-admin-display.php:75
+msgid "Customize your footer bar style:"
+msgstr "Personalizza lo stile della barra nel footer"
+
+#: admin/partials/wm-gdpr-admin-display.php:77
+msgid "background color"
+msgstr "colore di fondo"
+
+#: admin/partials/wm-gdpr-admin-display.php:80
+msgid "Background Color:"
+msgstr "Colore di Fondo:"
+
+#: admin/partials/wm-gdpr-admin-display.php:85
+msgid "foreground color"
+msgstr "colore del testo"
+
+#: admin/partials/wm-gdpr-admin-display.php:88
+msgid "Foreground Color:"
+msgstr "Colore del Testo:"
+
+#: admin/partials/wm-gdpr-admin-display.php:95
+msgid "Save all changes"
+msgstr "Salva"
+
+#: admin/partials/wm-gdpr-admin-display.php:100
+msgid ""
+"Do you want to include <strong>Iubenda Pro</strong> privacy policy statement?"
+msgstr ""
+"Vuoi includere la Privacy Policy del servizio <strong>Iubenda.it PRO</"
+"strong>?"
+
+#: admin/partials/wm-gdpr-admin-display.php:102
+msgid ""
+"With Iubenda Pro you can easily make your website completely compliant to "
+"GDPR. Click on the button below to discover our rates."
+msgstr ""
+"Con Iubenda Pro puoi creare la privacy policy del tuo sito: ti aiutiamo con "
+"gli obblighi di legge, così tu puoi dedicarti al tuo business. Soluzioni "
+"pensate da un team di avvocati per adeguare i tuoi siti web e le tue app "
+"alle normative di più Paesi e legislazioni\n"
+"Clicca il bottone sottostante per acquistare il servizio"
+
+#: admin/partials/wm-gdpr-admin-display.php:105
+msgid "Add Iubenda Pro"
+msgstr "Aggiungi Iubenda Pro"
+
+#: includes/class-acme-form-builder.php:576
+#: includes/class-acme-form-builder.php:593 includes/wm_formbuilder.php:293
+#: includes/wm_formbuilder.php:309
+msgid "Remove Image"
+msgstr "Rimuovi immagine"
+
+#: includes/class-acme-form-builder.php:588 includes/wm_formbuilder.php:304
+msgid "Upload Image"
+msgstr "Carica Immagine"
+
+#~ msgid "layer position"
+#~ msgstr "Posizione della barra"
+
+#~ msgid "Cookie bar position:"
+#~ msgstr "Posizione della barra sull'utilizzo dei Cookies."
+
+#~ msgid "Top"
+#~ msgstr "In alto"
+
+#~ msgid "Center"
+#~ msgstr "Centrale"
+
+#~ msgid "Bottom"
+#~ msgstr "In basso"
+
+#~ msgid "Default value is bottom"
+#~ msgstr "Il valore predefinito è `in basso`"
+
+#~ msgid "bar overlay"
+#~ msgstr "overlay della barra"
+
+#~ msgid "Bar Overlay"
+#~ msgstr "Overlay della Barra"
+
+#~ msgid "Flag if you want the layer over content. Default is false."
+#~ msgstr ""
+#~ "Abilita questa opzione se vuoi che l'avviso sia visibile sopra al "
+#~ "contenuto del sito"
+
+#~ msgid "remove all iframes"
+#~ msgstr "rimuovi tuttgli gli iframes"
+
+#~ msgid "Flag if you want to remove all iframes. Default is false."
+#~ msgstr ""
+#~ "Seleziona questa opzione per disabilitare tutti gli iFrame. Predefinito è "
+#~ "Falso"
+
+#~ msgid "custom policy url"
+#~ msgstr "URL della informativa cookie personalizzata"
+
+#~ msgid "Custom Policy URL:"
+#~ msgstr "URL della informativa cookie personalizzata"
+
+#~ msgid "Fill the URL for your custom Policy Statement."
+#~ msgstr ""
+#~ "Se vuoi utilizzare una informativa personalizzata, inserisci qui l'URL"
+
+#~ msgid "google analytics code"
+#~ msgstr "codice google analytics"
+
+#~ msgid "Google Analytics code:"
+#~ msgstr "Codice di Google Analytics"
+
+#~ msgid "Please enter your Analytics monitor ID, like UA-1234567-8."
+#~ msgstr "Inserisci l'ID di monitoraggio di Analytics, tipo UA-1234567-8"
+
+#~ msgid "hide credits"
+#~ msgstr "nascondi il link con i credits"
+
+#~ msgid "Hide Footer Credits"
+#~ msgstr "Nascondi il messaggio con i credits"
+
+#~ msgid "Flag if you want to hide the Footer Credits. Default is true."
+#~ msgstr ""
+#~ "Abilita questa opzione se vuoi nascondere i credits in fondo a questa "
+#~ "pagina. Attivo di default."
